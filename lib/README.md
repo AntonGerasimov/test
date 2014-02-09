@@ -1,4 +1,1 @@
-Author: AntonGerasimov
-E-mail: example@gmail.com
-Hi!
-Hello.
+This is the Hello World example from the git tutorial.
